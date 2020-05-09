@@ -1,0 +1,15 @@
+{
+    "semi": true,
+    "arrowParens": "always",
+    "singleQuote": true,
+    "endOfLine": "auto",
+    "jsxBracketSameLine": true,
+    "htmlWhitespaceSensitivity": "ignore",
+    "overrides": [
+      {
+        "files": ".prettierrc",
+        "options": { "parser": "json" }
+      }
+    ]
+  }
+  

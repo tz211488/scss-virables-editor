@@ -1,0 +1,468 @@
+{
+  "resultSetting": [
+    {
+      "name": "color",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "custom color",
+          "type": "color",
+          "value": "#846147",
+          "varName": "$prima1ry-color22",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "$color-1",
+          "type": "color",
+          "value": "#c2c6cf",
+          "varName": "$prima1ry-color6",
+          "index": 1,
+          "edit": false
+        },
+        {
+          "name": "$color-1",
+          "type": "color",
+          "value": "#c2c6cf",
+          "varName": "$prima1ry-color6",
+          "index": 2,
+          "edit": false
+        },
+        {
+          "name": "$color-1",
+          "type": "color",
+          "value": "#c2c6cf",
+          "varName": "$prima1ry-color6",
+          "index": 3,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Text Color",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "$font-color-1",
+          "type": "fontColor",
+          "value": "#ffffff",
+          "varName": "$color-text-action-label",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "$font-color-1",
+          "type": "fontColor",
+          "value": "#ffffff",
+          "varName": "$color-text-action-label",
+          "index": 1,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Border Color",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "$border-color-1",
+          "type": "borderColor",
+          "value": "#ffffff",
+          "varName": "$color-border-offline",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "$border-color-1",
+          "type": "borderColor",
+          "value": "#ffffff",
+          "varName": "$color-border-offline",
+          "index": 1,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Font Size",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "custom font size",
+          "type": "fontSize",
+          "value": {
+            "fontSize": 7,
+            "lineHeight": 43
+          },
+          "varName": "$color-border-offline",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "custom font size",
+          "type": "fontSize",
+          "value": {
+            "fontSize": 14,
+            "lineHeight": 43
+          },
+          "varName": "$color-border-offline",
+          "index": 1,
+          "edit": false
+        },
+        {
+          "name": "custom font size",
+          "type": "fontSize",
+          "value": {
+            "fontSize": 14,
+            "lineHeight": 43
+          },
+          "varName": "$color-border-offline",
+          "index": 2,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Space",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "custom space size",
+          "type": "space",
+          "value": 59,
+          "varName": "$color-space",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "custom space size",
+          "type": "space",
+          "value": 31,
+          "varName": "$color-space",
+          "index": 1,
+          "edit": false
+        },
+        {
+          "name": "$space-size-1",
+          "type": "space",
+          "value": 4,
+          "varName": "$color-space",
+          "index": 2,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Border Width",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "custom border width",
+          "type": "borderWidth",
+          "value": 4,
+          "varName": "$color-spasdsce",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "$border-width-1",
+          "type": "borderWidth",
+          "value": 0.5,
+          "varName": "$color-spasdsce",
+          "index": 1,
+          "edit": false
+        },
+        {
+          "name": "$border-width-1",
+          "type": "borderWidth",
+          "value": 0.5,
+          "varName": "$color-spasdsce",
+          "index": 2,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Border Radius",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "$border-radius-1",
+          "type": "borderRadius",
+          "value": 2,
+          "varName": "$color-spasdsce",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "$border-radius-1",
+          "type": "borderRadius",
+          "value": 2,
+          "varName": "$color-spasdsce",
+          "index": 1,
+          "edit": false
+        },
+        {
+          "name": "$border-radius-1",
+          "type": "borderRadius",
+          "value": 2,
+          "varName": "$color-spasdsce",
+          "index": 2,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Font Weight",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "$font-weight-1",
+          "type": "fontWeight",
+          "varName": "$color-spasds1231ce",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "$font-weight-1",
+          "type": "fontWeight",
+          "varName": "$color-spasds1231ce",
+          "index": 1,
+          "edit": false
+        },
+        {
+          "name": "$font-weight-1",
+          "type": "fontWeight",
+          "varName": "$color-spasds1231ce",
+          "index": 2,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Z-Index",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "$z-index-1",
+          "type": "zIndex",
+          "value": 1,
+          "varName": "$shadowsdsdfas",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "$z-index-1",
+          "type": "zIndex",
+          "value": 1,
+          "varName": "$shadowsdsdfas",
+          "index": 1,
+          "edit": false
+        },
+        {
+          "name": "$z-index-1",
+          "type": "zIndex",
+          "value": 1,
+          "varName": "$shadowsdsdfas",
+          "index": 2,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Shadow Config",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "$shadow-1",
+          "type": "shadowConfig",
+          "value": {
+            "hShadow": 2,
+            "vShadow": 2,
+            "blur": 2,
+            "spread": 2,
+            "color": "#595959"
+          },
+          "varName": "$shadowsdfasds",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "$shadow-2",
+          "type": "shadowConfig",
+          "value": {
+            "hShadow": 2,
+            "vShadow": 2,
+            "blur": 2,
+            "spread": 2,
+            "color": "#595959"
+          },
+          "varName": "$shadowsdfasds",
+          "index": 1,
+          "edit": false
+        },
+        {
+          "name": "$shadow-2",
+          "type": "shadowConfig",
+          "value": {
+            "hShadow": 2,
+            "vShadow": 2,
+            "blur": 2,
+            "spread": 2,
+            "color": "#595959"
+          },
+          "varName": "$shadowsdfasds",
+          "index": 2,
+          "edit": false
+        }
+      ]
+    },
+    {
+      "name": "Media Query",
+      "des": "Generic colors to use",
+      "tableData": [
+        {
+          "name": "custom screen size",
+          "type": "screenSize",
+          "value": 0,
+          "varName": "$screen-size",
+          "index": 0,
+          "edit": false
+        },
+        {
+          "name": "$screen-size-4",
+          "type": "screenSize",
+          "value": 1280,
+          "varName": "$screen-size",
+          "index": 1,
+          "edit": false
+        },
+        {
+          "name": "$screen-size-4",
+          "type": "screenSize",
+          "value": 1280,
+          "varName": "$screen-size",
+          "index": 2,
+          "edit": false
+        },
+        {
+          "name": "$screen-size-4",
+          "type": "screenSize",
+          "value": 1280,
+          "varName": "$screen-size",
+          "index": 3,
+          "edit": false
+        }
+      ]
+    }
+  ],
+  "colorConfig": [
+    {
+      "label": "custom-1",
+      "color": "#c2c6cf"
+    },
+    {
+      "label": "custom-2",
+      "color": "#b6bac2"
+    },
+    {
+      "label": "custom-3",
+      "color": "#aaadb5"
+    },
+    {
+      "label": "custom-4",
+      "color": "#9ea1a8"
+    },
+    {
+      "label": "custom-5",
+      "color": "#91939c"
+    },
+    {
+      "label": "custom-6",
+      "color": "#6e748f"
+    },
+    {
+      "label": "custom-7",
+      "color": "#4b5069"
+    },
+    {
+      "label": "custom-8",
+      "color": "#2c2f42"
+    },
+    {
+      "label": "custom-9",
+      "color": "#11121c"
+    },
+    {
+      "label": "custom-10",
+      "color": "#000000"
+    }
+  ],
+  "selectedColor": "custom",
+  "fontSizeConfig": [
+    {
+      "fontSize": 14,
+      "lineHeight": 22
+    },
+    {
+      "fontSize": 16,
+      "lineHeight": 24
+    },
+    {
+      "fontSize": 20,
+      "lineHeight": 28
+    },
+    {
+      "fontSize": 30,
+      "lineHeight": 38
+    },
+    {
+      "fontSize": 38,
+      "lineHeight": 46
+    }
+  ],
+  "fontWeightConfig": [
+    {
+      "fontWeight": 100
+    },
+    {
+      "fontWeight": 200
+    },
+    {
+      "fontWeight": 300
+    },
+    {
+      "fontWeight": 400
+    },
+    {
+      "fontWeight": 500
+    },
+    {
+      "fontWeight": 600
+    },
+    {
+      "fontWeight": 700
+    },
+    {
+      "fontWeight": 800
+    },
+    {
+      "fontWeight": 900
+    }
+  ],
+  "shadowConfig": [
+    {
+      "hShadow": 2,
+      "vShadow": 2,
+      "blur": 2,
+      "spread": 2,
+      "color": "#595959"
+    },
+    {
+      "hShadow": 2,
+      "vShadow": 2,
+      "blur": 2,
+      "spread": 2,
+      "color": "#595959"
+    }
+  ]
+}
